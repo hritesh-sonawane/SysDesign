@@ -4,13 +4,13 @@
 
 ### Command to run
 
-`node server.js`
+`node server.js`\
 
-### localhost:3001/nocache/index.html
+### `localhost:3001/nocache/index.html`
 
 - Page reloads for 3 seconds every time we refresh the page
 
-### localhost:3001/withcache/index.html
+### `localhost:3001/withcache/index.html`
 
 - Page reloads for 3 seconds on the initial load
 - The later reloads load the in-memory data/page instantly
