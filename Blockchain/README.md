@@ -7,7 +7,7 @@
 #### Output
 
 ```
-Block {
+    Block {
       timestamp: 1616781742748,
       lastHash: 'c671c84681b9d682b9fd43b2a2ef01a343eab7cfa410df9835f8165007d38467',
       hash: '7acd1a3617b70bd62121ba29e3cd36d5e0b502deea27b12b5e2072b37380e8ad',
