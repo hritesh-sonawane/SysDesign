@@ -1,19 +1,21 @@
-## Streaming & Polling
+# Streaming & Polling
 
-### Use case (here, Chat App):
+## Use case
 
 - Polling: When data needs to be updated every 'x' seconds/minutes
 - Streaming: When data needs to be updated instantly (real-time)
 
-### Command to run (on different terminals)
+## Command to run (on different terminals)
 
-`node server.js`
+### `node server.js`
 
-`MODE=stream NAME=Sasuke node client.js`
+### `MODE=stream NAME=Sasuke node client.js`
 
-`MODE=stream NAME=Naruto node client.js`
+### `MODE=stream NAME=Naruto node client.js`
 
-### Walkthrough (excluding server and client)
+<br />
+
+## Walkthrough (excluding server and client)
 
 - helpers.js: function to generate random integers
 - messaging_api.js: axios and WebSocket setup
