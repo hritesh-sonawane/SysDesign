@@ -11,7 +11,7 @@
 
 ### `MODE=stream NAME=Sasuke node client.js`
 
-### `MODE=stream NAME=Naruto node client.js`
+### `MODE=poll NAME=Naruto node client.js`
 
 <br />
 
