@@ -1,0 +1,17 @@
+{
+  "apiKey": "whatisanapikey_123",
+  "showCars": false,
+  "supportedLanguages": [
+    "cpp",
+    "csharp",
+    "golang",
+    "java",
+    "javascript",
+    "python",
+    "swift"
+  ],
+  "version": {
+    "number": 0,
+    "releaseDate": "2021-04-03"
+  }
+}
